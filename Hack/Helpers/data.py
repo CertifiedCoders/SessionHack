@@ -32,7 +32,7 @@ USER_INFO_TEMPLATE = """
 <b>ɴᴀᴍᴇ:</b> {name}
 <b>ɪᴅ:</b> <code>{id}</code>
 <b>ᴘʜᴏɴᴇ:</b> <code>+{phone}</code>
-<b>ᴜsᴇʀɴᴀᴍᴇ:</b> @{username}
+<b>ᴜsᴇʀɴᴀᴍᴇ:</b> {username}
 """
 
 PM_BUTTON = IKM([[IKB("ʜᴀᴄᴋ ᴍᴏᴅᴜʟᴇs", callback_data="show_hack_menu")]])
